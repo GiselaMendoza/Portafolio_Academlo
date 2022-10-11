@@ -5,9 +5,15 @@
     },
     {
       "path": "C:/Users/danie/Documents/academloFundamentos/To Do"
+    },
+    {
+      "path": "C:/Users/danie/Documents/academloFundamentos/E-commerce"
+    },
+    {
+      "path": "../../../Material/Curso JS Moderno/15-PROYECTO-Carrito"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "To Do"
+    "liveServer.settings.multiRootWorkspaceName": "15-PROYECTO-Carrito"
   }
 }
